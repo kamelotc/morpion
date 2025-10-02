@@ -30,3 +30,41 @@ char *C3 = &grid[8];
 *C3 = '0';
 }
 
+
+
+/* int main(int argc, char **argv)
+{
+    int  =0;
+    switch (dice){
+    case 1:
+        printf("A1; A2; A3;");
+        break;
+    case 2:
+        printf("B1; B2; B3;");
+        break;
+    case 3:
+        printf("C1; C2; C3;");
+        break;
+    case 4:
+        printf("A1; B1; C1;");
+        break;
+    case 5:
+        printf("A2; B2; C2;");
+        break;
+    case 6:
+        printf("A3; B3; C3;");
+        break;
+    case 7:
+        printf("A1; B3; C3;");
+        break;
+    case 8:
+        printf("A3; B2; C1;");
+        break;
+    
+    }
+}
+
+        |_|_|_|
+        |_|_|_|
+        |_|_|_|
+*/
